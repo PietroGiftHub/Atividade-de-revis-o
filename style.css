@@ -1,3 +1,31 @@
-img{
-    width: 300px;
+body {
+    font-family: sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    color: blue;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 5%;
+}
+
+p {
+
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 1em;
+
+}
+
+h2, h3 {
+    color: rgb(4, 126, 240);
 }
